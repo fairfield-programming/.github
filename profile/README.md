@@ -1,6 +1,9 @@
 ![Masthead](https://github.com/fairfield-programming/.github/blob/main/spread.png?raw=true)
 
 -----
+<p align="center">
+<i>Check out some of our projects and don't forget to star them!</i>
+</p>
 
 -----
 
