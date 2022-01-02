@@ -2,7 +2,7 @@
 
 -----
 <p align="center">
-<i>Check out some of our projects and don't forget to star them!</i>
+<i>If you would like to join us, <a href="mailto:fairfieldprogramming@gmail.com">send an email here</a>!</i>
 </p>
 
 -----
