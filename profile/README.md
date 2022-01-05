@@ -14,6 +14,7 @@ We are an open-source, non-profit dedicated to the education of children in the 
 
 - 🌐 [Our Website](https://fairfieldprogramming.org) - [Source Code](https://github.com/fairfield-programming/fairfield-programming.github.io)
 - 📠 [Backend Server](https://fairfield-programming.herokuapp.com) - [Source Code](https://github.com/fairfield-programming/backend-server/)
+- 🦆 [Duck Generator](https://www.npmjs.com/package/duckgen) - [Source Code](https://github.com/fairfield-programming/ducks)
 - 🤯 [EAF Linter](https://www.npmjs.com/package/eaf-linter) - [Source Code](https://github.com/fairfield-programming/eaf-linter/)
 - 🤓 [Our Documentation](https://docs.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/docs)
 - 📝 [Our Blog](https://blog.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/blog)
