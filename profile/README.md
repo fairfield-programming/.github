@@ -18,3 +18,4 @@ We are an open-source, non-profit dedicated to the education of children in the 
 - 🤯 [EAF Linter](https://www.npmjs.com/package/eaf-linter) - [Source Code](https://github.com/fairfield-programming/eaf-linter/)
 - 🤓 [Our Documentation](https://docs.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/docs)
 - 📝 [Our Blog](https://blog.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/blog)
+- 🤖 [Terry](https://discord.gg/w44f5ettks) - [Source Code](https://github.com/fairfield-programming/terry)
