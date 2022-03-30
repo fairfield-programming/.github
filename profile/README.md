@@ -19,4 +19,4 @@ We are an open-source, non-profit dedicated to the education of children in the 
 - 🤓 [Our Documentation](https://docs.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/docs)
 - 📝 [Our Blog](https://blog.fairfieldprogramming.org/) - [Source Code](https://github.com/fairfield-programming/blog)
 - 🤖 [Terry](https://discord.gg/w44f5ettks) - [Source Code](https://github.com/fairfield-programming/terry)
-- 🇷🇺 [Kasparov](https://www.npmjs.com/package/kasparov) - [Source Code](https://github.com/fairfield-programming/kasparov)
+- 🗿 [Monolyth](https://github.com/fairfield-programming/monolyth) - [Source Code](https://github.com/fairfield-programming/monolyth)
